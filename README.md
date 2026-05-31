@@ -1,7 +1,12 @@
 ﻿# Hi there, I'm Shivam Shinde! 👋
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shivam0014two&show_icons=true&theme=transparent&hide_border=true" alt="Shivam's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shivam0014two&show_icons=true&theme=dark&hide_border=false" alt="Shivam's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam0014two&layout=compact&theme=dark&hide_border=false" alt="Top Langs" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shivam0014two&theme=dark&hide_border=false" alt="GitHub Streak" />
 </p>
 
 ### 🛠 Tech Stack & Skills
