@@ -1,14 +1,6 @@
 ﻿# Hi there, I'm Shivam Shinde! 👋
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shivam0014two&show_icons=true&theme=radical&hide_border=false" alt="Shivam's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam0014two&layout=compact&theme=radical&hide_border=false" alt="Top Langs" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shivam0014two&theme=react-dark" alt="GitHub Activity Graph" />
 </p>
 
